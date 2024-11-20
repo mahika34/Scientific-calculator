@@ -1,15 +1,16 @@
-Topic: Scientific calculator
+# Scientific Calculator
 
-Technology included: Python, tkinter
+## Technology Used
+- **Python**
+- **Tkinter**
 
-Description: This projects provides a scientific calculator to its user for easy and convinient use.It allows all simple calculations(add,subtract,multiply,divide) and also scientific calculations(log, tignometric,etc)
+## Project Description
+This project provides a **scientific calculator** for easy and convenient usage. It supports:
+- **Basic Calculations**: Addition, Subtraction, Multiplication, Division
+- **Scientific Calculations**: Logarithmic, Trigonometric, and more.
 
-Steps to follow:
+## Steps to Run the Project
 
-1. Use the command git clone https://github.com/mahika34/Scientific-calculator--1st-sem.git
-2. cd Scientific-calculator--1st-sem
-3. Run the python file using:
-python final.py
-4. The calculator will appear on the screen and can help you calculate anything!
-
-Feel free to post any issue/suggestion whenever you like!
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mahika34/Scientific-calculator--1st-sem.git

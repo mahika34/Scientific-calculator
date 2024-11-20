@@ -13,4 +13,6 @@ This project provides a **scientific calculator** for easy and convenient usage.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mahika34/Scientific-calculator--1st-sem.git
+   git clone https://github.com/mahika34/Scientific-calculator.git
+2. ```bash
+   cd Scientific-calculator

@@ -14,5 +14,10 @@ This project provides a **scientific calculator** for easy and convenient usage.
 1. Clone the repository:
    ```bash
    git clone https://github.com/mahika34/Scientific-calculator.git
-2. ```bash
+2. Move to the cloned directory
+   ```bash
    cd Scientific-calculator
+3. Run the python file as
+   ```bash
+   python final.py
+4. Perform any mathematical operation of your choice.
